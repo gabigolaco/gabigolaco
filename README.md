@@ -1,5 +1,9 @@
 <h1 align="center">Welcome to my Profile! 🤘</h1>
 
+<div align="center">
+  <img height="300" src="https://camo.githubusercontent.com/b463b135e1c1e02be49b5a821922be8caa5c2ca2274663c1dd30227872f9d59d/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966"  />
+</div>
+
 ###
 
 <p align="left">Hello! my name is Gabriel, I'm 17 years old Brazilian, student of front-end related technologies. English/Portuguese speaker.</p>
@@ -12,10 +16,6 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img height="300" src="https://camo.githubusercontent.com/b463b135e1c1e02be49b5a821922be8caa5c2ca2274663c1dd30227872f9d59d/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966"  />
-</div>
 
 ###
 
