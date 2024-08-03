@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hello! my name is Gabriel, I'm 17 years old Brazilian, student of front-end related technologies. English/Portuguese speaker.</p>
+<p align="left">Hello! my name is Gabriel, I'm 17 years old Brazilian, student of front-end related technologies. English/Portuguese speaker.</p>
 
 - My native language is Portuguese but I can communicate in English
 - I'm ambitious to develop myself as a professional and even more as a person 
@@ -14,7 +14,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/b463b135e1c1e02be49b5a821922be8caa5c2ca2274663c1dd30227872f9d59d/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966"  />
+  <img height="300" src="https://camo.githubusercontent.com/b463b135e1c1e02be49b5a821922be8caa5c2ca2274663c1dd30227872f9d59d/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966"  />
 </div>
 
 ###
