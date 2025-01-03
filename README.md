@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello! my name is Gabriel, I'm 17 years old Brazilian, student of front-end related technologies. English/Portuguese speaker.</p>
+<p align="left">Hello! my name is Gabriel, I'm 17 yeas old Brazilian, student of front-end related technologies. English/Portuguese speaker.</p>
 
 - My native language is Portuguese but I can communicate in English
 - I'm ambitious to develop myself as a professional and even more as a person 
