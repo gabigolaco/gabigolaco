@@ -9,7 +9,6 @@
 <p align="left">Hello! my name is Gabriel, I'm 18 years old Brazilian, student of front-end related technologies. English/Portuguese speaker.</p>
 
 - My native language is Portuguese but I can communicate in English
-- I'm ambitious to develop myself as a professional and even more as a person 
 - Currently learning **React.js**, **Node.js**
 - How to reach me: <a href='mailto:gabdevcamargo@gmail.com' target='_blank'>gabdevcamargo@gmail.com</a>
 
