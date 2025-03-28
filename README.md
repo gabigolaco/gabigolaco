@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">Hello! my name is Gabriel, I am 18 years old Brazilian, student of front-end related technologies.</p>
+<h3 align="left">Hello! my name is Gabriel, I am 18 years old Brazilian, student of front-end related technologies.</h3>
+
 
 - My english level is B1-B2
 - Currently learning **React.js**
