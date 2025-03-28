@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Profile!</h1>
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/b1/3f/32/b13f32843cc0ddf1bfac387f0e8e2808.gif"  width='70%' height="auto"</img>
+<img src="https://i.pinimg.com/originals/b1/3f/32/b13f32843cc0ddf1bfac387f0e8e2808.gif"  width='100%' height="auto"</img>
 </div>
 
 ###
