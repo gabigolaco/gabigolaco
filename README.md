@@ -1,15 +1,16 @@
 <h1 align="center">Welcome to my Profile!</h1>
 
 <div align="center">
-  <img src="" height="300"</img>
+<img src="https://i.pinimg.com/originals/b1/3f/32/b13f32843cc0ddf1bfac387f0e8e2808.gif"  width='70%' height="auto"</img>
 </div>
 
 ###
 
-<p align="left">Hello! my name is Gabriel, I am 18 years old Brazilian, student of front-end related technologies. Portuguese speaker.</p>
+<p align="left">Hello! my name is Gabriel, I am 18 years old Brazilian, student of front-end related technologies.</p>
 
 - My english level is B1-B2
 - Currently learning **React.js**
+- Currently preparing for the national entrance exam (ENEM) to pursue a degree in Information Systems at the Federal Institute of São Paulo (IFSP).
 - How to reach me: <a href='mailto:gabdevcamargo@gmail.com' target='_blank'>gabdevcamargo@gmail.com</a>
 
 ###
@@ -46,6 +47,8 @@
   <a href='https://www.instagram.com/gabieizin/' target='_blank'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/></a>
   <a href='mailto:gabdevcamargo@gmail.com' target='_blank'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a>
 </div>
+
+
 
 ###
 
