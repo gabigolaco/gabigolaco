@@ -1,15 +1,15 @@
 <h1 align="center">Welcome to my Profile!</h1>
 
 <div align="center">
-  <img height="300" src="https://camo.githubusercontent.com/b463b135e1c1e02be49b5a821922be8caa5c2ca2274663c1dd30227872f9d59d/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966"</img>
+  <img src="" height="300"</img>
 </div>
 
 ###
 
-<p align="left">Hello! my name is Gabriel, I'm 18 years old Brazilian, student of front-end related technologies. English/Portuguese speaker.</p>
+<p align="left">Hello! my name is Gabriel, I am 18 years old Brazilian, student of front-end related technologies. Portuguese speaker.</p>
 
-- My native language is Portuguese but I can communicate in English
-- Currently learning **React.js**, **Node.js**
+- My english level is B1-B2
+- Currently learning **React.js**
 - How to reach me: <a href='mailto:gabdevcamargo@gmail.com' target='_blank'>gabdevcamargo@gmail.com</a>
 
 ###
@@ -27,13 +27,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>&nbsp;&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" height="40" alt="node logo"  />
 </div>
 
 ###
