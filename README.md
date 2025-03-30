@@ -1,12 +1,12 @@
-<h1 align="center">Welcome to my Profile!</h1>
+
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/b1/3f/32/b13f32843cc0ddf1bfac387f0e8e2808.gif"  width='100%' height="auto"</img>
+<img src="https://etc.usf.edu/clipart/46100/46157/46157_cat_banner_lg.gif"  width='80%' height="auto"</img>
 </div>
 
-###
+---
 
-<h3 align="left">Hello! my name is Gabriel, I am 18 years old Brazilian, student of front-end related technologies.</h3>
+<p align="left">Hello, welcome to my profile! My name is Gabriel, I am 18 years old Brazilian, student of front-end related technologies.</p>
 
 
 - My english level is B1-B2
@@ -14,42 +14,46 @@
 - Currently preparing for the national entrance exam (ENEM) to pursue a degree in Information Systems at the Federal Institute of São Paulo (IFSP).
 - How to reach me: <a href='mailto:gabdevcamargo@gmail.com' target='_blank'>gabdevcamargo@gmail.com</a>
 
-###
+---
 
-###
-
-<h2 align="center">Technologies</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>&nbsp;&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" height="40" alt="node logo"  />
-</div>
-
-###
-
-<h2 align="center">Social media</h2>
-
-###
-
-<div align="center">
-  <a href='https://www.linkedin.com/in/gabriel-camargo-9ab5492b2/' target='_blank'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
-  <a href='https://www.instagram.com/gabieizin/' target='_blank'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/></a>
-  <a href='mailto:gabdevcamargo@gmail.com' target='_blank'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a>
+<h3 height='10' align="left">Programming Languages</h2>
+<div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="auto" alt="javascript logo"  />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="auto" alt="node logo"  />
 </div>
 
 
+<h3 align="left">Frameworks</h2>
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="auto" alt="react logo"/>
+</div>
 
-###
+<h3 align='left'>Technologies & Software</h3>
+
+<div>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="auto" alt="html5 logo"  />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="auto" alt="css3 logo"  />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="auto" alt="git logo"  />
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="auto" alt="mySql logo"  />
+<img height='auto' src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)'>
+<img src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white' height='auto'>
+<img src='https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white' height='auto'>
+<img src='https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white' height='auto'>
+</div>
+
+---
+
+<div>
+<a href="https://x.com/gabiigolaco">
+  <img height="32" align="left" alt="X" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/x-jvgvt5gje92oz29ez4fgd.png/x-0muuxjzgzvtlpaduv3p4k2s.png?_a=DAJFJtWIZAAC" />
+</a>
+<a href="https://www.linkedin.com/in/gabriel-camargo-9ab5492b2/">
+  <img height="32" align="left" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+</a>
+<a href="https://www.instagram.com/gabieizin/?hl=en">
+  <img height="32" align="left" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
+</a>
+</div>
+
+
 
