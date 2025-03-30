@@ -19,13 +19,13 @@
 <h3 height='10' align="left">Programming Languages</h2>
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="auto" alt="javascript logo"  />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="auto" alt="node logo"  />
 </div>
 
 
 <h3 align="left">Frameworks</h2>
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="auto" alt="react logo"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="auto" alt="node logo"  />
 </div>
 
 <h3 align='left'>Technologies & Software</h3>
