@@ -37,19 +37,16 @@
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="auto" alt="mySql logo"  />
 <img height='auto' src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)'>
 <img src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white' height='auto'>
-<img src='https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white' height='auto'>&nbsp;
+<img src='https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white' height='auto
+<img src='https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white' height='auto'>
 <img src='https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white' height='auto'>
 </div>
 
 ---
 
 <div>
-<a href="https://x.com/gabiigolaco">
-</a>
 <a href="https://www.linkedin.com/in/gabriel-camargo-9ab5492b2/">
   <img height="32" align="left" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
-</a>
-<a href="https://www.instagram.com/gabieizin/?hl=en">
 </a>
 </div>
 
