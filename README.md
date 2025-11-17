@@ -12,7 +12,7 @@
 - My english level is B2
 - Currently learning **React.js**
 - Currently preparing for the national entrance exam (ENEM) to pursue a degree in Information Systems at the Federal Institute of São Paulo (IFSP).
-- How to reach me: <a href='mailto:gabisousacamargo123@gmail.com' target='_blank'>gabdevcamargo@gmail.com</a>
+- How to reach me: <a href='mailto:gabisousacamargo123@gmail.com' target='_blank'>gabisousacamargo123@gmail.com</a>
 
 ---
 
