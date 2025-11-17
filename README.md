@@ -45,13 +45,11 @@
 
 <div>
 <a href="https://x.com/gabiigolaco">
-  <img height="32" align="left" alt="X" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/x-jvgvt5gje92oz29ez4fgd.png/x-0muuxjzgzvtlpaduv3p4k2s.png?_a=DAJFJtWIZAAC" />
 </a>
 <a href="https://www.linkedin.com/in/gabriel-camargo-9ab5492b2/">
   <img height="32" align="left" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 <a href="https://www.instagram.com/gabieizin/?hl=en">
-  <img height="32" align="left" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
 </a>
 </div>
 
