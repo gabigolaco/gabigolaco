@@ -9,7 +9,6 @@
 <p align="left">Hello, welcome to my profile! My name is Gabriel, I am 18 years old Brazilian, student of front-end related technologies.</p>
 
 
-- My english level is B2
 - Currently preparing for the national entrance exam (ENEM) to pursue a degree in Information Systems at the Federal Institute of São Paulo (IFSP).
 - How to reach me: <a href='mailto:gabisousacamargo123@gmail.com' target='_blank'>gabisousacamargo123@gmail.com</a>
 
